@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Garima Singh</h1>
 <h3 align="center">A Programmer and Frontend Developer from India</h3>
 
-<img align="right" alt="coding" width="600" height="310" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
+<img align="right" alt="coding" width="400" height="310" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
 
 
