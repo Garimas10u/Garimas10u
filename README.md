@@ -1,4 +1,4 @@
-![logo](https://github.com/Garimas10u/Garimas10u/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/Garimas10u/Garimas10u/blob/main/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Garima Singh</h1>
 <h3 align="center">A Programmer and Frontend Developer from India</h3>
