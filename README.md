@@ -5,12 +5,6 @@
 
 <img align="right" alt="coding" width="500" height="310" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garimas10u&label=Profile%20views&color=0e75b6&style=flat" alt="garimas10u" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garimas10u" alt="garimas10u" /></a> </p>
-
 - 🔭 I’m currently working on **Blogio - a Blogging website**
 
 - 🌱 I’m currently learning **DSA in C++ and Backend development**
