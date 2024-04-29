@@ -5,13 +5,13 @@
 
 <img align="right" alt="coding" width="500" height="310" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
-- 🔭 I’m currently working on **Blogio - a Blogging website**
+🔭 I’m currently working on **Blogio - a Blogging website**
 
-- 🌱 I’m currently learning **DSA in C++ and Backend development**
+🌱 I’m currently learning **DSA in C++ and Backend development**
 
-- 💬 Ask me about **ReactJS**
+💬 Ask me about **ReactJS**
 
-- 📫 How to reach me **garimasingh10u@gmail.com**
+📫 How to reach me **garimasingh10u@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
