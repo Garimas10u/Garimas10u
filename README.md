@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="500" height="310" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
-🔭 I’m currently working on **Blogio - a Blogging website**
+🔭 I’m currently working on **A MERN E-commerce Website**
 
 🌱 I’m currently learning **DSA in C++ and Backend development**
 
