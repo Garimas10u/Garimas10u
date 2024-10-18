@@ -1,15 +1,15 @@
 ![logo](https://github.com/Garimas10u/Garimas10u/blob/main/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Garima Singh</h1>
-<h3 align="center">A Programmer and Frontend Developer</h3>
+<h3 align="center">A Programmer and a MERN Developer</h3>
 
 <img align="right" alt="coding" width="500" height="310" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
 🔭 I’m currently working on **A MERN E-commerce Website**
 
-🌱 I’m currently learning **DSA in C++ and Backend development**
+🌱 I’m currently learning **DSA in C++ and Next.Js**
 
-💬 Ask me about **ReactJS**
+💬 Ask me about **MERN Stack**
 
 📫 How to reach me **garimasingh10u@gmail.com**
 
