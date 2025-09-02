@@ -1,22 +1,21 @@
 ![logo](https://github.com/Garimas10u/Garimas10u/blob/main/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Garima Singh</h1>
-<h3 align="center">A Programmer and a MERN Developer</h3>
+<h3 align="center">A Programmer and a fullstack Web Developer</h3>
 
 <img align="right" alt="coding" width="500" height="310" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
-🔭 I’m currently working on **A MERN E-commerce Website**
+🔭 I’m currently working on **Legalane**
 
-🌱 I’m currently learning **DSA in C++ and Next.Js**
+🌱 I’m currently learning **Generative AI**
 
-💬 Ask me about **MERN Stack**
+💬 Ask me about **MERN Stack and NextJs **
 
 📫 How to reach me **garimasingh10u@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/garimasingh10u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/garimasingh10u" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/garima_010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="garima_010" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/garimasingh10u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="garimasingh10u" height="30" width="40" /></a>
 </p>
 
