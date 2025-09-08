@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Generative AI**
 
-💬 Ask me about **MERN Stack and NextJs **
+💬 Ask me about **MERN and Next.js**
 
 📫 How to reach me **garimasingh10u@gmail.com**
 
